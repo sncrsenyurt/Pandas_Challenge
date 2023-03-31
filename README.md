@@ -34,7 +34,7 @@ When assessing school summaries and performing schools, the score replacements d
 ### Average Reading Scores by Grade & School
 ![Average Reading Scores by Grade & School](Resources/Average%20Reading%20Scores%20by%20Grade%20%26%20School.png)
 
-Another plus side from this data replacement is that it did not change the math and reading scores by grade. Granted, both the average math and reading score summaries were stratisfied by school and grade level. As shown above, the summary tables display "NaN" for ninth grade at Thomas High School whereas the remaining data remained intact.
+Another plus side from this data replacement is that it did not change the math and reading scores by grade. Granted, both the average math and reading score summaries were stratisfied by school and grade level. 
 
 
 ### School Spending Summary

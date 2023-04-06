@@ -1,4 +1,4 @@
-# Pandas_Challenge_week_4
+# Pandas_Challenge
 
 # School District Analysis
 Performing an analysis using school and student data to inform a school district on their budget and priorities.
